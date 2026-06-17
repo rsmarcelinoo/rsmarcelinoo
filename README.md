@@ -2,7 +2,7 @@
 
 <p align="center">
   
-  <a href="https://linkedin.com/in/linkedin.com/m/in/rodrigoomarcelino/">LinkedIn</a> •
+  <a href="https://linkedin.com/in/rodrigoomarcelino/">LinkedIn</a> •
   <a href="https://github.com/rsmarcelinoo">GitHub</a>
 </p>
 

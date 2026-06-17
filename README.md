@@ -58,17 +58,13 @@ Rodrigo Marcelino is a Computer Science Engineering student at NOVA School of Sc
   <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="40" height="40"/> </a>
 </p>
 
-Assembly is also present in the picture
+🖥️ Assembly (ARM, x86)
 
 ---
 
 ### 📈 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rsmarcelinoo/rsmarcelinoo/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rsmarcelinoo/rsmarcelinoo/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rsmarcelinoo/rsmarcelinoo/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rsmarcelinoo&theme=github-dark&hide_border=true&area=true" width="100%" />
 
 ---
 

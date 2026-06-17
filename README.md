@@ -2,61 +2,12 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/rodrigoomarcelino/">LinkedIn</a> •
-  <a href="https://github.com/rsmarcelinoo">GitHub</a> •
-  <a href="mailto:r.marcelino@campus.fct.unl.pt">Email</a>
+  <a href="https://github.com/rsmarcelinoo">GitHub</a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Orekit+Contributor;Handball+%26+Mountaineering" alt="Typing SVG" />
-</p>
-
----
-
-<table align="center">
-<tr>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=rsmarcelinoo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  </td>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsmarcelinoo&layout=compact&theme=github_dark&hide_border=true" />
-  </td>
-</tr>
-</table>
-
----
-
-### 🌐 Languages
-
-| Language | Proficiency |
-|----------|-----------|
-| 🇵🇹 Portuguese | Native |
-| 🇬🇧 English | Fluent |
-| 🇪🇸 Spanish | Intermediate |
-
----
-
-### 🛠️ Tech Stack
-
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![OCaml](https://img.shields.io/badge/-OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-### 📈 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rsmarcelinoo/rsmarcelinoo/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rsmarcelinoo/rsmarcelinoo/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rsmarcelinoo/rsmarcelinoo/output/github-contribution-grid-snake.svg" />
-</picture>
+Rodrigo Marcelino is a Computer Science Engineering student at NOVA School of Science and Technology, with a solid foundation in programming languages such as Java, C, C++, SQL, and OCaml. He is a contributor to the Orekit astrodynamics library and has experience leading a multidisciplinary team to develop innovative projects, including a wearable safety device.
 
 ---
 
@@ -113,7 +64,11 @@
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rsmarcelinoo&theme=github-dark&hide_border=true&area=true" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rsmarcelinoo/rsmarcelinoo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rsmarcelinoo/rsmarcelinoo/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rsmarcelinoo/rsmarcelinoo/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 

@@ -1,16 +1,21 @@
-## Hi there 👋
+<h3 align="center">👋 Hi there, I'm Rodrigo Marcelino</h3>
 
-<!--
-**rsmarcelinoo/rsmarcelinoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="">Website</a> •
+  <a href="https://twitter.com/">Twitter</a> •
+  <a href="https://linkedin.com/in/linkedin.com/m/in/rodrigoomarcelino/">LinkedIn</a> •
+  <a href="https://github.com/rsmarcelinoo">GitHub</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Rodrigo Marcelino is a Computer Science Engineering student at NOVA School of Science and Technology, with a solid foundation in programming languages such as Java, C, C++, SQL, and OCaml. He is a contributor to the Orekit astrodynamics library and has experience leading a multidisciplinary team to develop innovative projects, including a wearable safety device.
+
+---
+
+- 🔭 Currently working as **Computer Science Engineering Student** at **NOVA SST**
+- 📍 Based in: **Lisbon / Leiria, Portugal**
+- 📫 Reach me: [r.marcelino@campus.fct.unl.pt](mailto:r.marcelino@campus.fct.unl.pt)
+- ⚡ Fun fact: I have an Advanced Diploma in Double Bass and have been involved in various volunteering activities, including fundraising and data analytics for web summit. I am into Handball and Mountaineering 
+
+---

@@ -20,10 +20,10 @@ Rodrigo Marcelino is a Computer Science Engineering student at NOVA School of Sc
 <table align="center">
 <tr>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=rsmarcelinoo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+    <img src="https://github-readme-stats-seven-topaz-uz7bjoe0cc.vercel.app/api?username=rsmarcelinoo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
   </td>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsmarcelinoo&layout=compact&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats-seven-topaz-uz7bjoe0cc.vercel.app/api/top-langs?username=rsmarcelinoo&layout=compact&theme=github_dark&hide_border=true" />
   </td>
 </tr>
 </table>

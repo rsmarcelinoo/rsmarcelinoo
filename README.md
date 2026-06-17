@@ -1,8 +1,7 @@
 <h3 align="center">👋 Hi there, I'm Rodrigo Marcelino</h3>
 
 <p align="center">
-  <a href="">Website</a> •
-  <a href="https://twitter.com/">Twitter</a> •
+  
   <a href="https://linkedin.com/in/linkedin.com/m/in/rodrigoomarcelino/">LinkedIn</a> •
   <a href="https://github.com/rsmarcelinoo">GitHub</a>
 </p>

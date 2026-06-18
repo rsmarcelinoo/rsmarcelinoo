@@ -1,9 +1,21 @@
-<h3 align="center">👋 Hi there, I'm Rodrigo Marcelino</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/rodrigoomarcelino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/rsmarcelinoo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<table>
+<tr>
+  <td width="200" align="center">
+    <img src="assets/workMe.png" alt="me working" width="160" />
+  </td>
+  <td align="center">
+    <h3>👋 Hi there, I'm Rodrigo Marcelino</h3>
+    <p>
+      <a href="https://linkedin.com/in/rodrigoomarcelino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <a href="https://github.com/rsmarcelinoo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </p>
+  </td>
+  <td width="200" align="center">
+    <img src="assets/mountaineeringMe.png" alt="me mountaineering" width="120" />
+    <img src="assets/handballMe.png" alt="me playing handball" width="120" />
+  </td>
+</tr>
+</table>
 
 ---
 
@@ -37,12 +49,6 @@ I'm a Computer Science Engineering student at NOVA School of Science and Technol
 | 🇵🇹 Portuguese | Native |
 | 🇬🇧 English | Fluent |
 | 🇪🇸 Spanish | Intermediate |
-
-<p align="center">
-  <img src="assets/handballMe.png" alt="me playing handball" width="160" />
-  <img src="assets/mountaineeringMe.png" alt="me mountaineering" width="160" />
-  <img src="assets/workMe.png" alt="me working" width="160" />
-</p>
 
 <p align="center">
   <img src="assets/mountain.png" alt="mountain" width="400" />

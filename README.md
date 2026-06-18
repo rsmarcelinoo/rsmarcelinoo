@@ -37,9 +37,6 @@ I'm a Computer Science Engineering student at NOVA School of Science and Technol
   <td>
     <img src="https://github-readme-stats-seven-topaz-uz7bjoe0cc.vercel.app/api/top-langs?username=rsmarcelinoo&layout=compact&theme=github_dark&hide_border=true&langs_count=12&hide=Jupyter%20Notebook&count_private=true&v=9" />
   </td>
-  <td width="160" align="center" valign="middle">
-    <img src="assets/mountain.png" alt="mountain" height="180" />
-  </td>
 </tr>
 </table>
 
@@ -47,11 +44,20 @@ I'm a Computer Science Engineering student at NOVA School of Science and Technol
 
 ### 🌐 Languages
 
+<table align="center"> 
+  <tr>
+    <td>
 | Language | Proficiency |
 |----------|-----------|
 | 🇵🇹 Portuguese | Native |
 | 🇬🇧 English | Fluent |
 | 🇪🇸 Spanish | Intermediate |
+   </td>
+  <td width="160" align="center" valign="middle">
+   <img src="assets/mountain.png" alt="mountain" height="180" />
+  </td>
+  </tr>
+</table>
 
 ---
 

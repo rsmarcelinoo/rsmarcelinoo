@@ -1,13 +1,13 @@
 <h3 align="center">👋 Hi there, I'm Rodrigo Marcelino</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rodrigoomarcelino/">LinkedIn</a> •
-  <a href="https://github.com/rsmarcelinoo">GitHub</a>
+  <a href="https://linkedin.com/in/rodrigoomarcelino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/rsmarcelinoo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-Rodrigo Marcelino is a Computer Science Engineering student at NOVA School of Science and Technology, with a solid foundation in programming languages such as Java, C, C++, SQL, and OCaml. He is a contributor to the Orekit astrodynamics library and has experience leading a multidisciplinary team to develop innovative projects, including a wearable safety device.
+I'm a Computer Science Engineering student at NOVA School of Science and Technology, with a solid foundation in programming languages such as Java, C, C++, SQL, and OCaml. I contribute to the Orekit astrodynamics library and have experience leading a multidisciplinary team to develop innovative projects, including a wearable safety device.
 
 ---
 
@@ -20,10 +20,10 @@ Rodrigo Marcelino is a Computer Science Engineering student at NOVA School of Sc
 <table align="center">
 <tr>
   <td>
-    <img src="https://github-readme-stats-seven-topaz-uz7bjoe0cc.vercel.app/api?username=rsmarcelinoo&show_icons=true&theme=github_dark&hide_border=true&count_private=true&v=8" />
+    <img src="https://github-readme-stats-seven-topaz-uz7bjoe0cc.vercel.app/api?username=rsmarcelinoo&show_icons=true&theme=github_dark&hide_border=true&count_private=true&v=9" />
   </td>
   <td>
-    <img src="https://github-readme-stats-seven-topaz-uz7bjoe0cc.vercel.app/api/top-langs?username=rsmarcelinoo&layout=compact&theme=github_dark&hide_border=true&langs_count=12&hide=Jupyter%20Notebook&count_private=true&v=8" />
+    <img src="https://github-readme-stats-seven-topaz-uz7bjoe0cc.vercel.app/api/top-langs?username=rsmarcelinoo&layout=compact&theme=github_dark&hide_border=true&langs_count=12&hide=Jupyter%20Notebook&count_private=true&v=9" />
   </td>
 </tr>
 </table>
@@ -57,6 +57,7 @@ Rodrigo Marcelino is a Computer Science Engineering student at NOVA School of Sc
   <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a>
   <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/assembly.svg" alt="assembly" width="40" height="40"/> </a>
+  <a href="https://www.orekit.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Orekit-Contributor-00599C?style=flat-square&logo=java&logoColor=white" alt="orekit" width="auto" height="40"/> </a>
 </p>
 
 ---

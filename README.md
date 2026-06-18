@@ -19,7 +19,7 @@
 
 ---
 
-I'm a Computer Science Engineering student at NOVA School of Science and Technology, with a solid foundation in programming languages such as Java, C, C++, SQL, and OCaml. I contribute to the Orekit astrodynamics library and have experience leading a multidisciplinary team to develop innovative projects, including a wearable safety device.
+I'm a Computer Science Engineering student at <a href="https://www.fct.unl.pt/">NOVA School of Science and Technology</a>, with a solid foundation in programming languages such as Java, C, C++, SQL, and OCaml. I contribute to the <a href="https://www.orekit.org/">Orekit</a> astrodynamics library and have experience leading a multidisciplinary team to develop innovative projects, including a wearable safety device.
 
 ---
 

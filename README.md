@@ -1,16 +1,16 @@
-<table>
+<table align="center">
 <tr>
-  <td width="200" align="center">
+  <td width="200" align="center" valign="middle">
     <img src="assets/workMe.png" alt="me working" width="160" />
   </td>
-  <td align="center">
+  <td align="center" valign="middle">
     <h3>👋 Hi there, I'm Rodrigo Marcelino</h3>
     <p>
       <a href="https://linkedin.com/in/rodrigoomarcelino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       <a href="https://github.com/rsmarcelinoo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </p>
   </td>
-  <td width="200" align="center">
+  <td width="200" align="center" valign="middle">
     <img src="assets/mountaineeringMe.png" alt="me mountaineering" width="120" />
     <img src="assets/handballMe.png" alt="me playing handball" width="120" />
   </td>
@@ -44,18 +44,19 @@ I'm a Computer Science Engineering student at NOVA School of Science and Technol
 
 ### 🌐 Languages
 
-<table align="center"> 
+<table align="center">
   <tr>
     <td>
-| Language | Proficiency |
-|----------|-----------|
-| 🇵🇹 Portuguese | Native |
-| 🇬🇧 English | Fluent |
-| 🇪🇸 Spanish | Intermediate |
-   </td>
-  <td width="160" align="center" valign="middle">
-   <img src="assets/mountain.png" alt="mountain" height="180" />
-  </td>
+      <table>
+        <tr><th align="left">Language</th><th align="center">Proficiency</th></tr>
+        <tr><td>🇵🇹 Portuguese</td><td align="center">Native</td></tr>
+        <tr><td>🇬🇧 English</td><td align="center">Fluent</td></tr>
+        <tr><td>🇪🇸 Spanish</td><td align="center">Intermediate</td></tr>
+      </table>
+    </td>
+    <td width="160" align="center" valign="middle">
+      <img src="assets/mountain.png" alt="mountain" height="180" />
+    </td>
   </tr>
 </table>
 

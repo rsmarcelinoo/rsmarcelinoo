@@ -38,6 +38,13 @@ I'm a Computer Science Engineering student at NOVA School of Science and Technol
 | 🇬🇧 English | Fluent |
 | 🇪🇸 Spanish | Intermediate |
 
+<p align="center">
+  <img src="assets/avatar1.png" alt="pixel me" width="150" />
+  <img src="assets/avatar2.png" alt="pixel me 2" width="150" />
+  <img src="assets/avatar3.png" alt="pixel me 3" width="150" />
+  <img src="assets/mountain.png" alt="pixel mountain" width="180" />
+</p>
+
 ---
 
 ### 🛠️ Languages and Tools

@@ -32,7 +32,7 @@ I'm a Computer Science Engineering student at <a href="https://www.fct.unl.pt/">
 <table align="center">
 <tr>
   <td>
-    <img src="https://github-readme-stats-seven-topaz-uz7bjoe0cc.vercel.app/api?username=rsmarcelinoo&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&show=total_contributions&v=11" />
+    <img src="https://github-readme-stats-seven-topaz-uz7bjoe0cc.vercel.app/api?username=rsmarcelinoo&show_icons=true&theme=github_dark&hide_border=true&count_private=true&v=12" />
   </td>
   <td>
     <img src="https://github-readme-stats-seven-topaz-uz7bjoe0cc.vercel.app/api/top-langs?username=rsmarcelinoo&layout=compact&theme=github_dark&hide_border=true&langs_count=12&hide=Jupyter%20Notebook&count_private=true&v=9" />

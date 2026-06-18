@@ -12,7 +12,7 @@ Rodrigo Marcelino is a Computer Science Engineering student at NOVA School of Sc
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Orekit+Contributor;Handball+%26+Mountaineering;Watch+Builder+&+Modder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Orekit+Contributor;Handball+%26+Mountaineering;Watch+Builder+%26+Modder" alt="Typing SVG" />
 </p>
 
 ---
